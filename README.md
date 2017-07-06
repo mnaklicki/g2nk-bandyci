@@ -1,2 +1,4 @@
 # Bandyci
-Mod Bandyci do Gothic 2 Noc Kruka, skrypty zostaną tu wysłane po premierze która niedługo nastąpi.
+Mod Bandyci do Gothic 2 Noc Kruka.
+
+https://bractwogothica.ml/thread-1030.html
