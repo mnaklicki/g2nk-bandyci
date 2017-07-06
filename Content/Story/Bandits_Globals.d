@@ -1,0 +1,26 @@
+var int LogansDeadSwampsharks;
+var int EdgorsDeadBloodflies;
+var int EskerTeach1H;
+var int GetNewArmour;
+var int checkedTemple;
+var int checkedTeleport;
+
+var int MIS_Help_Logan;
+var int MIS_Report;
+var int MIS_Edgors_Hunt;
+var int MIS_Pouches_for_Miguel;
+var int MIS_Franco;
+var int MIS_Swampweed;
+var int MIS_List_of_Goods;
+var int MIS_Packs_from_Pirates;
+var int MIS_Transport;
+var int MIS_Bored_Crimson;
+var int MIS_Move_up_the_Hierarchy;
+var int MIS_Spy;
+var int MIS_Strong_Beer;
+var int MIS_Better_Armour;
+var int MIS_Raven;
+var int MIS_Tomb;
+var int MIS_Riot_in_Hunters_Camp;
+var int MIS_Illness;
+var int MIS_Arvo;
